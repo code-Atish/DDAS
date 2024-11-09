@@ -4,7 +4,7 @@
 
 ## Features
 - **Real-time detection**: Automatically checks download history for duplicate files.
-- **Customizable behavior**: Allows users to override or block duplicate downloads.
+- **Customizable behavior**: Allows block duplicate downloads.
 - **Native Messaging Integration**: Facilitates interaction between the extension and local storage for enhanced functionality.
 - **Simple and intuitive UI**: Easy-to-use interface for enabling/disabling the extension.
 - **Lightweight**: Minimal performance impact on your browser.
