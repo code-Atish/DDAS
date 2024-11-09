@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "DDAS Extension",
+    "version": "1.0",
+    "description": "Data Download Duplication Alert System",
+    "permissions": [
+      "downloads",
+      "storage",
+      "notifications",
+      "nativeMessaging"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "48": "icon48.png"
+      }
+    },
+    "icons": {
+      "48": "icon48.png"
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+  "name": "com.example.native_messaging_host",
+  "description": "Native messaging host for Duplicate Downloads Detector",
+  "path": "/absolute/path/to/native_messaging_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://<extension-id>/"
+  ]
+}
